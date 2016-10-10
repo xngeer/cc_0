@@ -1,0 +1,49 @@
+2016-10-10T03:38:32.589Z - normal: Load ~/.CocosCreator/settings.json
+2016-10-10T03:38:32.593Z - normal: checking language setting...
+2016-10-10T03:38:32.593Z - normal: Language: zh
+2016-10-10T03:38:32.617Z - success: protocol editor-framework registered
+2016-10-10T03:38:32.617Z - success: protocol app registered
+2016-10-10T03:38:32.618Z - success: protocol packages registered
+2016-10-10T03:38:32.618Z - success: protocol theme registered
+2016-10-10T03:38:32.618Z - success: protocol unpack registerred
+2016-10-10T03:38:32.667Z - normal: connected!
+2016-10-10T03:38:32.671Z - normal: Check project /Users/yamei/codes/cocos_space/firstgame_finish
+2016-10-10T03:38:32.673Z - normal: Initializing Cocos Creator Editor
+2016-10-10T03:38:33.003Z - normal: Initializing Cocos2d
+2016-10-10T03:38:33.127Z - normal: Initializing Asset Database
+2016-10-10T03:38:33.141Z - success: protocol uuid registerred
+2016-10-10T03:38:33.141Z - success: protocol db registerred
+2016-10-10T03:38:33.141Z - success: protocol thumbnail registerred
+2016-10-10T03:38:33.146Z - normal: Loading editor/builtin packages
+2016-10-10T03:38:33.261Z - success: assets loaded
+2016-10-10T03:38:33.265Z - success: builder loaded
+2016-10-10T03:38:33.270Z - success: hierarchy loaded
+2016-10-10T03:38:33.273Z - success: inspector loaded
+2016-10-10T03:38:33.274Z - success: keystore loaded
+2016-10-10T03:38:33.278Z - success: node-library loaded
+2016-10-10T03:38:33.281Z - success: preferences loaded
+2016-10-10T03:38:33.293Z - success: project-importer loaded
+2016-10-10T03:38:33.296Z - success: project-settings loaded
+2016-10-10T03:38:33.300Z - success: ui-kit loaded
+2016-10-10T03:38:33.304Z - success: ui-grid loaded
+2016-10-10T03:38:33.307Z - success: scene loaded
+2016-10-10T03:38:33.308Z - success: sprite-editor loaded
+2016-10-10T03:38:33.316Z - success: timeline loaded
+2016-10-10T03:38:33.317Z - normal: Loading builtin packages
+2016-10-10T03:38:33.321Z - success: asset-db-debugger loaded
+2016-10-10T03:38:33.323Z - success: cocos-package loaded
+2016-10-10T03:38:33.324Z - success: code-editor loaded
+2016-10-10T03:38:33.324Z - success: color-picker loaded
+2016-10-10T03:38:33.328Z - success: console loaded
+2016-10-10T03:38:33.331Z - success: package-manager loaded
+2016-10-10T03:38:33.334Z - success: tester loaded
+2016-10-10T03:38:33.338Z - success: ui-kit-preview-extra loaded
+2016-10-10T03:38:33.340Z - success: ui-kit-preview loaded
+2016-10-10T03:38:33.343Z - success: ui-tree loaded
+2016-10-10T03:38:33.365Z - normal: Initializing project /Users/yamei/codes/cocos_space/firstgame_finish
+2016-10-10T03:38:33.367Z - normal: Loading packages
+2016-10-10T03:38:33.371Z - normal: Run Application
+2016-10-10T03:38:34.270Z - success: preview server running at http://localhost:7456
+2016-10-10T03:38:34.270Z - normal: Compiling scripts...
+2016-10-10T03:38:35.867Z - normal: Compiled successfully
+2016-10-10T03:38:38.761Z - normal: 1.2.2
