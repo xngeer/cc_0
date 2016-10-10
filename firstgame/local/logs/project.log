@@ -1,143 +1,48 @@
-2016-10-08T10:49:44.301Z - normal: Load ~/.CocosCreator/settings.json
-2016-10-08T10:49:44.305Z - normal: checking language setting...
-2016-10-08T10:49:44.305Z - normal: Language: zh
-2016-10-08T10:49:44.329Z - success: protocol editor-framework registered
-2016-10-08T10:49:44.329Z - success: protocol app registered
-2016-10-08T10:49:44.329Z - success: protocol packages registered
-2016-10-08T10:49:44.330Z - success: protocol theme registered
-2016-10-08T10:49:44.330Z - success: protocol unpack registerred
-2016-10-08T10:49:44.439Z - normal: connected!
-2016-10-08T10:49:44.442Z - normal: Check project /Users/yamei/codes/cocos_space/firstgame
-2016-10-08T10:49:44.445Z - normal: Initializing Cocos Creator Editor
-2016-10-08T10:49:44.741Z - normal: Initializing Cocos2d
-2016-10-08T10:49:44.829Z - normal: Initializing Asset Database
-2016-10-08T10:49:44.845Z - success: protocol uuid registerred
-2016-10-08T10:49:44.845Z - success: protocol db registerred
-2016-10-08T10:49:44.845Z - success: protocol thumbnail registerred
-2016-10-08T10:49:44.845Z - normal: Loading editor/builtin packages
-2016-10-08T10:49:44.967Z - success: assets loaded
-2016-10-08T10:49:44.973Z - success: builder loaded
-2016-10-08T10:49:44.979Z - success: hierarchy loaded
-2016-10-08T10:49:44.984Z - success: inspector loaded
-2016-10-08T10:49:44.985Z - success: keystore loaded
-2016-10-08T10:49:44.989Z - success: node-library loaded
-2016-10-08T10:49:44.993Z - success: preferences loaded
-2016-10-08T10:49:45.009Z - success: project-importer loaded
-2016-10-08T10:49:45.012Z - success: project-settings loaded
-2016-10-08T10:49:45.019Z - success: ui-kit loaded
-2016-10-08T10:49:45.025Z - success: ui-grid loaded
-2016-10-08T10:49:45.028Z - success: scene loaded
-2016-10-08T10:49:45.029Z - success: sprite-editor loaded
-2016-10-08T10:49:45.034Z - success: timeline loaded
-2016-10-08T10:49:45.034Z - normal: Loading builtin packages
-2016-10-08T10:49:45.038Z - success: asset-db-debugger loaded
-2016-10-08T10:49:45.040Z - success: cocos-package loaded
-2016-10-08T10:49:45.041Z - success: code-editor loaded
-2016-10-08T10:49:45.041Z - success: color-picker loaded
-2016-10-08T10:49:45.044Z - success: console loaded
-2016-10-08T10:49:45.047Z - success: package-manager loaded
-2016-10-08T10:49:45.051Z - success: tester loaded
-2016-10-08T10:49:45.054Z - success: ui-kit-preview-extra loaded
-2016-10-08T10:49:45.057Z - success: ui-kit-preview loaded
-2016-10-08T10:49:45.060Z - success: ui-tree loaded
-2016-10-08T10:49:45.083Z - normal: Initializing project /Users/yamei/codes/cocos_space/firstgame
-2016-10-08T10:49:45.084Z - normal: Loading packages
-2016-10-08T10:49:45.089Z - normal: Run Application
-2016-10-08T10:49:45.559Z - success: preview server running at http://localhost:7456
-2016-10-08T10:49:45.559Z - normal: Compiling scripts...
-2016-10-08T10:49:46.873Z - normal: Compiled successfully
-2016-10-08T10:49:50.252Z - normal: 1.2.2
-2016-10-08T11:10:46.688Z - normal: Compiled successfully
-2016-10-08T11:10:50.318Z - normal: Compiled successfully
-2016-10-08T11:12:55.369Z - normal: Compiled successfully
-2016-10-08T11:18:41.055Z - normal: Compiled successfully
-2016-10-08T11:19:21.704Z - normal: Compiled successfully
-2016-10-08T11:26:02.181Z - normal: Compiled successfully
-2016-10-08T11:26:58.646Z - normal: Compiled successfully
-2016-10-08T11:27:34.591Z - normal: Compiled successfully
-2016-10-10T02:02:21.203Z - normal: Compiled successfully
-2016-10-10T02:06:13.974Z - normal: Compiled successfully
-2016-10-10T02:06:18.987Z - normal: Compiled successfully
-2016-10-10T02:07:15.394Z - normal: Compiled successfully
-2016-10-10T02:08:37.779Z - normal: Compiled successfully
-2016-10-10T02:08:44.430Z - normal: Compiled successfully
-2016-10-10T02:10:19.532Z - normal: Compiled successfully
-2016-10-10T02:10:24.817Z - normal: Compiled successfully
-2016-10-10T02:13:11.086Z - normal: Compiled successfully
-2016-10-10T02:13:11.183Z - warn: The "type" attribute of "Game.starPrefab" is undefined when loading script.
-2016-10-10T02:17:37.406Z - normal: Compiled successfully
-2016-10-10T02:20:01.482Z - normal: Compiled successfully
-2016-10-10T02:24:51.526Z - normal: Compiled successfully
-2016-10-10T02:25:07.807Z - normal: Compiled successfully
-2016-10-10T02:26:32.393Z - normal: Compiled successfully
-2016-10-10T02:26:57.985Z - normal: Compiled successfully
-2016-10-10T02:36:29.385Z - normal: Compiled successfully
-2016-10-10T02:36:33.464Z - normal: Compiled successfully
-2016-10-10T02:37:32.557Z - normal: Compiled successfully
-2016-10-10T02:37:34.495Z - normal: Compiled successfully
-2016-10-10T02:37:36.831Z - normal: Compiled successfully
-2016-10-10T02:40:00.687Z - normal: Compiled successfully
-2016-10-10T02:40:32.590Z - normal: Compiled successfully
-2016-10-10T02:40:36.371Z - normal: Compiled successfully
-2016-10-10T02:42:10.473Z - normal: Compiled successfully
-2016-10-10T02:46:46.392Z - normal: Compiled successfully
-2016-10-10T02:48:42.788Z - normal: Compiled successfully
-2016-10-10T02:50:37.092Z - normal: Compiled successfully
-2016-10-10T02:50:55.165Z - normal: Compiled successfully
-2016-10-10T02:53:01.280Z - normal: Compiled successfully
-2016-10-10T02:53:42.492Z - normal: Compiled successfully
-2016-10-10T02:53:53.169Z - normal: Compiled successfully
-2016-10-10T02:55:10.201Z - normal: Compiled successfully
-2016-10-10T02:55:49.443Z - normal: Compiled successfully
-2016-10-10T02:56:15.987Z - error: Failed to update asset db://assets/scripts/Star.js, messages: SyntaxError: unknown: Unexpected token (32:38)
-    update: function (dt) {
-        // 每帧判断和主角之间的距离是否小于收集距离
-        if(this.getPlayerDistance() < )
-    },
-});
-
-    at Parser.pp.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/parser/location.js:24:13)
-    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/parser/util.js:82:8)
-    at Parser.pp.parseExprAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/parser/expression.js:425:12)
-    at Parser.parseExprAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/plugins/jsx/index.js:412:22)
-    at Parser.pp.parseExprSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/parser/expression.js:236:19)
-    at Parser.pp.parseMaybeUnary (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/parser/expression.js:217:19)
-    at Parser.pp.parseExprOp (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/parser/expression.js:188:42)
-    at Parser.pp.parseExprOps (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/parser/expression.js:167:17)
-    at Parser.pp.parseMaybeConditional (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/parser/expression.js:145:19)
-    at Parser.pp.parseMaybeAssign (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/parser/expression.js:112:19)
-    at e.AssetDB.error (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/lib/utils.js:1:2582)
-    at Object.callback (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/core/ipc.js:1:4377)
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:906:35
-    at _arrayEach (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:85:13)
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:898:17
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:44:16
-    at e.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/index.js:1:1633)
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/lib/tasks.js:1:19127
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:52:16
-2016-10-10T02:56:50.144Z - normal: Compiled successfully
-2016-10-10T03:01:56.053Z - normal: Compiled successfully
-2016-10-10T03:02:17.503Z - normal: Compiled successfully
-2016-10-10T03:03:27.518Z - normal: Compiled successfully
-2016-10-10T03:03:30.775Z - normal: Compiled successfully
-2016-10-10T03:05:49.865Z - normal: Compiled successfully
-2016-10-10T03:10:10.849Z - normal: Compiled successfully
-2016-10-10T03:11:53.863Z - normal: Compiled successfully
-2016-10-10T03:12:09.379Z - normal: Compiled successfully
-2016-10-10T03:13:52.441Z - normal: Compiled successfully
-2016-10-10T03:14:49.528Z - normal: Compiled successfully
-2016-10-10T03:15:34.987Z - normal: Compiled successfully
-2016-10-10T03:16:10.406Z - normal: Compiled successfully
-2016-10-10T03:22:49.495Z - normal: Compiled successfully
-2016-10-10T03:26:03.215Z - normal: Compiled successfully
-2016-10-10T03:26:05.476Z - normal: Compiled successfully
-2016-10-10T03:26:56.450Z - normal: Compiled successfully
-2016-10-10T03:28:34.921Z - normal: Compiled successfully
-2016-10-10T03:29:16.840Z - normal: Compiled successfully
-2016-10-10T03:30:48.662Z - normal: Compiled successfully
-2016-10-10T03:31:00.467Z - normal: Compiled successfully
-2016-10-10T03:32:16.104Z - normal: Compiled successfully
-2016-10-10T03:32:24.559Z - normal: Compiled successfully
-2016-10-10T03:33:28.351Z - normal: Compiled successfully
-2016-10-10T03:34:48.450Z - normal: Compiled successfully
-2016-10-10T03:35:25.381Z - normal: Compiled successfully
+2016-10-10T05:44:28.693Z - normal: Load ~/.CocosCreator/settings.json
+2016-10-10T05:44:28.696Z - normal: checking language setting...
+2016-10-10T05:44:28.697Z - normal: Language: zh
+2016-10-10T05:44:28.722Z - success: protocol editor-framework registered
+2016-10-10T05:44:28.723Z - success: protocol app registered
+2016-10-10T05:44:28.723Z - success: protocol packages registered
+2016-10-10T05:44:28.723Z - success: protocol theme registered
+2016-10-10T05:44:28.723Z - success: protocol unpack registerred
+2016-10-10T05:44:28.824Z - normal: connected!
+2016-10-10T05:44:28.827Z - normal: Check project /Users/yamei/codes/cocos_space/firstgame
+2016-10-10T05:44:28.829Z - normal: Initializing Cocos Creator Editor
+2016-10-10T05:44:29.168Z - normal: Initializing Cocos2d
+2016-10-10T05:44:29.289Z - normal: Initializing Asset Database
+2016-10-10T05:44:29.310Z - success: protocol uuid registerred
+2016-10-10T05:44:29.311Z - success: protocol db registerred
+2016-10-10T05:44:29.311Z - success: protocol thumbnail registerred
+2016-10-10T05:44:29.311Z - normal: Loading editor/builtin packages
+2016-10-10T05:44:29.426Z - success: assets loaded
+2016-10-10T05:44:29.437Z - success: builder loaded
+2016-10-10T05:44:29.441Z - success: hierarchy loaded
+2016-10-10T05:44:29.445Z - success: inspector loaded
+2016-10-10T05:44:29.446Z - success: keystore loaded
+2016-10-10T05:44:29.449Z - success: node-library loaded
+2016-10-10T05:44:29.452Z - success: preferences loaded
+2016-10-10T05:44:29.465Z - success: project-importer loaded
+2016-10-10T05:44:29.468Z - success: project-settings loaded
+2016-10-10T05:44:29.471Z - success: ui-kit loaded
+2016-10-10T05:44:29.474Z - success: ui-grid loaded
+2016-10-10T05:44:29.478Z - success: scene loaded
+2016-10-10T05:44:29.479Z - success: sprite-editor loaded
+2016-10-10T05:44:29.485Z - success: timeline loaded
+2016-10-10T05:44:29.485Z - normal: Loading builtin packages
+2016-10-10T05:44:29.489Z - success: asset-db-debugger loaded
+2016-10-10T05:44:29.491Z - success: cocos-package loaded
+2016-10-10T05:44:29.492Z - success: code-editor loaded
+2016-10-10T05:44:29.493Z - success: color-picker loaded
+2016-10-10T05:44:29.496Z - success: console loaded
+2016-10-10T05:44:29.499Z - success: package-manager loaded
+2016-10-10T05:44:29.503Z - success: tester loaded
+2016-10-10T05:44:29.506Z - success: ui-kit-preview-extra loaded
+2016-10-10T05:44:29.509Z - success: ui-kit-preview loaded
+2016-10-10T05:44:29.511Z - success: ui-tree loaded
+2016-10-10T05:44:29.534Z - normal: Initializing project /Users/yamei/codes/cocos_space/firstgame
+2016-10-10T05:44:29.536Z - normal: Loading packages
+2016-10-10T05:44:29.540Z - normal: Run Application
+2016-10-10T05:44:29.868Z - success: preview server running at http://localhost:7456
+2016-10-10T05:44:32.925Z - normal: 1.2.2
+2016-10-10T05:47:56.932Z - info: shutdown preview server
