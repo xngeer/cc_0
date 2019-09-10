@@ -1,15 +1,14 @@
 {
-  "start-scene": "current",
-  "group-list": [
-    "default"
-  ],
   "collision-matrix": [
     [
       true
     ]
   ],
   "excluded-modules": [],
-  "last-module-event-record-time": 0,
+  "group-list": [
+    "default"
+  ],
+  "start-scene": "current",
   "design-resolution-width": 960,
   "design-resolution-height": 640,
   "fit-width": false,
@@ -21,6 +20,7 @@
     "width": 960,
     "height": 640
   },
+  "last-module-event-record-time": 0,
   "assets-sort-type": "name",
   "facebook": {
     "enable": false,
